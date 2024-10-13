@@ -1,6 +1,8 @@
 # StarCoq
 
 - https://madiot.fr/coq100/
+- https://github.com/HoTT/Coq-HoTT
+- https://softwarefoundations.cis.upenn.edu/
 - https://learnxinyminutes.com/docs/coq/
 - https://github.com/coq-community/coq-100-theorems
 - https://github.com/coq/coq
@@ -19,10 +21,15 @@
 - https://github.com/search?q=lang%3Acoq&type=repositories&p=1
 - https://huggingface.co/bigcode
 - https://lim.univ-reunion.fr/staff/fred/Enseignement/IntroCoq/Exos-Coq/Petit-guide-de-survie-en-Coq.html
-
+-https://github.com/SkySkimmer/HoTT-algebra
+- https://github.com/SkySkimmer/HoTTClasses
+- https://huggingface.co/learn/cookbook/fine_tuning_code_llm_on_single_gpu
 
 - https://github.com/yangky11/ml4tp-tutorial/blob/main/main.ipynb
 - https://coq.gitlab.io/zulip-archive/stream/252087-Machine-learning-and-automation/index.html
 - https://coq-workshop.gitlab.io/
 - https://github.com/princeton-vl/CoqGym?tab=readme-ov-file#41-interacting-with-coqgym
 - https://github.com/wellecks/ntptutorial
+
+
+https://huggingface.co/learn/cookbook/fine_tuning_code_llm_on_single_gpu
